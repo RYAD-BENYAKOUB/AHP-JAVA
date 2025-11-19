@@ -157,7 +157,7 @@ Implémenter AHP flou (Fuzzy AHP)
 👨‍💻 Auteur
 
 Projet réalisé par Mohammed Ryad Benyakoub
-📧 Contact : (ajoute ton email si tu veux)
+📧 Contact :ryadbenykoub@gmail.com
 
 📜 Licence
 
